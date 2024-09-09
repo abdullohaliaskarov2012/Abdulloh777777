@@ -1,0 +1,27 @@
+body{
+    background-color: darkslategrey;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 60px;
+    background-color: brown;
+    width: 550px;
+    height: 80px;
+    margin-left: 900px;
+}
+
+.box{
+    border: 10px solid red;
+    background-color: aqua;
+    font-size: 25px;
+    color: green;
+    width: 750px;
+    margin: 0 auto;
+    padding: 60px;
+}
+.bola{
+    background-color: black;
+    padding: 20px;
+}
